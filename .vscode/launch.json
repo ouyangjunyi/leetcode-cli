@@ -16,7 +16,7 @@
       "request": "launch",
       "name": "mine",
       "program": "${workspaceFolder}/bin/leetcode",
-      "args": ["submission", "-l", "C++", "94"]
+      "args": ["submission", "-l", "C++", "-o", "submissions", "94"]
     },
     {
       "type": "node",

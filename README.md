@@ -6,6 +6,8 @@
 
 # leetcode-cli
 
+node版本支持：v12.22.11
+
 > Note: This repository is forked from [leetcode-cli](https://github.com/skygragon/leetcode-cli) for temporary usage. 
 > Note: Copy cookie from webbrowser and Using **leetcode user -c** can temporary fix can't [login problem](https://github.com/jdneo/vscode-leetcode/issues/478).
 
